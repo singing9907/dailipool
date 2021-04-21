@@ -2,7 +2,7 @@ package database
 
 import (
 	"fmt"
-	"github.com/back20/proxypool/pkg/proxy"
+	"github.com/singing9907/proxypool/pkg/proxy"
 	"gorm.io/gorm"
 	"log"
 	"time"
