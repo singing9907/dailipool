@@ -2,12 +2,12 @@ package provider
 
 import (
 	"fmt"
-	"github.com/back20/proxypool/pkg/healthcheck"
+	"github.com/singing9907/proxypool/pkg/healthcheck"
 	"math"
 	"strconv"
 	"strings"
 
-	"github.com/back20/proxypool/pkg/proxy"
+	"github.com/singing9907/proxypool/pkg/proxy"
 )
 
 type Provider interface {
