@@ -1,10 +1,10 @@
 package cron
 
 import (
-	"github.com/back20/proxypool/config"
+	"github.com/singing9907/proxypool/config"
 	"runtime"
 
-	"github.com/back20/proxypool/internal/app"
+	"github.com/singing9907/proxypool/internal/app"
 	"github.com/jasonlvhit/gocron"
 )
 
